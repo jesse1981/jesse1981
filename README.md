@@ -8,4 +8,5 @@ My greatest attribute is the diversity in my technical understanding, being able
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/jesse1981/jesse1981/master/octocat.png?raw=true"></a>
 - Tweeting random thoughts on <a href="https://twitter.com/jesse_bryant">Twitter</a> 
 - Sharing updates on <a href="https://www.linkedin.com/in/jesse-bryant/">LinkedIn</a> 💼
+- Creating development articles and other helpful tips on my <a href="https://developerjess.blogspot.com">blog</a>
 - I’m currently working on a new SaaS product, I'll keep you posted! 🔭 
