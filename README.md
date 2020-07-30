@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Hi, I'm Jesse 💻
+## Hi, I'm Jesse 💻
 
 <img src="https://raw.githubusercontent.com/jesse1981/jesse1981/master/github_banner_full.png" alt="banner that says Jesse Bryant - software engineer, Hacker and Blogger alongside a painting illustration of Jesse">
 I am an extremely passionate developer, starting to understand core application logic over 20 years ago, with basic automation, shared libraries and dialogs.  Within the last 10 years, I have throttled this field into the world of web and mobile, touching base on a number of platforms, design patterns and varied database systems.
